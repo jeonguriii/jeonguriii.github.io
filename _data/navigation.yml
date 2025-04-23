@@ -12,8 +12,8 @@ main:
   # - title: "Projects"
   #   url: /projects/
 
-  - title: "Categories"
-    url: /categories/
+  # - title: "Categories"
+  #   url: /categories/
 
 categories:
   - title: "Title1"
