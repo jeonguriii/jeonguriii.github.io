@@ -1,8 +1,8 @@
 ---
-title: "Hi all! I'm OOOOOO👋🏻"
+title: "My name is jeonguriii"
 permalink: /about/
 layout: single
 comments: false
 ---
 
-본인 소개 여기에 입력
+개발 블로그 / 개인 블로그
