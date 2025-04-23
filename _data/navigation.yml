@@ -12,20 +12,8 @@ main:
   # - title: "Projects"
   #   url: /projects/
 
-  # - title: "Categories"
-  #   url: /categories/
-
-# sidebar navigation (categories)
-# 2022.02.15 sidebar update : simple ver.
-# categories:
-#   - title: "Categories1"
-#     url: /categories/categories1/
-#   - title: "Categories2"
-#     url: /categories/categories2/
-#   - title: "Categories3"
-#     url: /categories/categories3/
-#   - title: "Categories4"
-#     url: /categories/categories4/
+  - title: "Categories"
+    url: /categories/
 
 categories:
   - title: "Title1"
@@ -34,12 +22,8 @@ categories:
         url: /categories/categories1/
       - title: "Categories2"
         url: /categories/categories2/
-      - title: "Categories3"
-        url: /categories/categories3/
-      - title: "Categories4"
-        url: /categories/categories4/
 
   - title: "Title2"
     children:
-      - title: "Categories5"
-        url: /categories/categories5/
+      - title: "Categories3"
+        url: /categories/categories3/
